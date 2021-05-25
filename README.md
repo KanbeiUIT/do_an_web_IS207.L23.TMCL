@@ -1,2 +1,6 @@
-# Mobile_Shopee-E-Commerce-Website
-In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
+# Đồ án Phát Triển Ứng Dụng Web
+## Sinh viên thực hiện:
+  - Nguyễn Hồng Quang - 18521297
+  - Nguyễn Trần Hà Đức - 18520615
+  - Hoàng Công Toán - 1952359
+
